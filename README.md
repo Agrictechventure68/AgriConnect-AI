@@ -17,8 +17,8 @@ Smallholder farmers in Africa face challenges like limited access to expert advi
 
 - 🔗 Frontend (Vercel): [https://agriconnect-ai.vercel.app](https://agriconnect-ai.vercel.app)
 - 🔗 Backend (Render): [https://agriconnect-backend.onrender.com](https://agriconnect-backend.onrender.com)
-- 📊 Pitch Deck: [View AgriConnect AI Pitch Deck](https://docs.google.com/document/d/14YaAQFtQ912ATp4uw8sStRX_JYuJIeAoZ7588eBitk/edit?usp=drive_link)
-
+- 📊 Pitch Deck: [View AgriConnect AI Pitch Deck]https://docs.google.com/document/d/1BGNzBvf8WwibFvtKPL-FxvQG_wT7iTdtQZ1jjneoKwU/edit?usp=sharing
+https://docs.google.com/document/d/14YaAQFtQ9l2ATp4uw8sStRX__JYuJleAoZ7S8BeBitk/edit?usp=drive_link
 
 
 🧠 KEY FEATURES
