@@ -1,0 +1,19 @@
+Project Title: AgriConnect-AI — Empowering African Farmers with AI
+By: Bright Doro
+
+GitHub Repo: https://github.com/Agrictechventure68/AgriConnect-AI
+Live App: https://agriconnectai.vercel.app
+
+Key Features:
+- AI-powered Q&A Assistant for Farmers
+- Crop Marketplace
+- Weather & Pest Alerts
+- Dashboard Insights
+
+Built With:
+- React, Tailwind, Node, Express, Supabase, OpenAI
+- Deployed with Vercel (frontend) & Render (backend)
+
+Other Projects:
+https://agrictechventure68.github.io/agri-empower-frontend/
+
