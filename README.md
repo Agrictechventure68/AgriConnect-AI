@@ -1,134 +1,119 @@
-🌾 AGRICONNECT AI
+ 🌾 AgriConnect AI
 
-*AgriConnect AI* is an intelligent farming assistant platform designed for African smallholder farmers. It connects them with AI-driven advisory, a digital marketplace, and real-time crop insights — all from one simple interface.
+* Empowering African Farmers with AI-Driven Solutions*  
+By *Bright Doro*
+https://github.com/Agrictechventure68/AgriConnect-AI
+brightdorogrictechventure@gmail.com
 
-## 📣 WHY AGRICONNECT AI?
 
-Smallholder farmers in Africa face challenges like limited access to expert advice, unpredictable weather, and difficulty reaching buyers. AgriConnect AI bridges these gaps by offering:
+ 🔍 PROBLEM
 
-- **Instant, localized AI farming support**  
-- **A trusted digital marketplace for produce**
-- **Real-time weather and pest alerts**
-- **Actionable insights to boost yields and income**
+1. Limited expert agricultural guidance for rural farmers  
+2. Poor market access for produce  
+3. Lack of real-time weather or disease updates  
 
-*Built for connectivity, simplicity, and real-world impact.*
+
+
+ 💡 SOLUTION
+
+AgriConnect AI is a full-stack AI-enabled platform that provides:
+1. 🤖 AI-powered farming assistant  
+2. 🛒 Crop marketplace  
+3. 🌦 Weather alerts and pest/disease warnings  
+4. 📊 Real-time insights dashboard  
+
+
+
+ 👥 USERS
+
+1. Smallholder Farmers  
+2. Cooperatives  
+3. Produce Buyers  
+4. Agricultural Extension Workers  
+
+
+
+ 🔧 TECH STACK
+
+1. React + Tailwind CSS  
+2. Node.js + Express  
+3. Supabase (Database)  
+4. OpenAI API (AI assistant)  
+5. Vercel (Frontend hosting)  
+6. Render (Backend/API hosting)
+
+
 
  🚀 LIVE DEMO
 
-- 🔗 Frontend (Vercel): [https://agriconnect-ai.vercel.app](https://agriconnect-ai.vercel.app)
-- 🔗 Backend (Render): [https://agriconnect-backend.onrender.com](https://agriconnect-backend.onrender.com)
-- 📊 Pitch Deck: [View AgriConnect AI Pitch Deck]https://docs.google.com/document/d/1BGNzBvf8WwibFvtKPL-FxvQG_wT7iTdtQZ1jjneoKwU/edit?usp=sharing
-https://docs.google.com/document/d/14YaAQFtQ9l2ATp4uw8sStRX__JYuJleAoZ7S8BeBitk/edit?usp=drive_link
-
-
-🧠 KEY FEATURES
-
-- 🧑🏾‍🌾 *AI CROP ADVISOR* – Ask farming questions and get instant answers
-- 🌽 *FARMER MARKETPLACE* – Sell farm produce directly to verified buyers
-- ☁ *WEATHER & PEST ALERTS* – Stay informed with live updates
-- 📈 *SMART DASHBOARD* – Visualize crop performance and market prices
+ * 🔗 *Frontend*: [https://agriconnectai.vercel.app](https://agriconnectai.vercel.app)  
+ * 🔗 *Backend*: [https://agriconnect-ai-xxxxx.onrender.com](https://agriconnect-ai-xxxxx.onrender.com)  
+  (May spin up for ~50s on first call due to Render free tier)
 
 
 
- 🛠 TECH STACK
+ 🧠 AI Assistant Route
 
-| LAYER      | TECH                     |
-|------------|--------------------------|
-| FRONTEND   | React.js (Vite), TailwindCSS |
-| BACKEND    | Node.js, Express         |
-| DATABASE   | Supabase (PostgreSQL)    |
-| AI ENGINE  | Claude AI (via API)      |
-| DEPLOYMENT | Vercel (Frontend), Render (Backend) |
+bash
+POST /api/chat
+{
+  "message": "What type of fertilizer is best for tomatoes?"
+}
 
 
 
- 💻 INSTALLATION & LOCAL SETUP
 
-1. *Clone the repo*  
-```bash
-git clone https://github.com/Agrictechventure68/AgriConnect-AI.git
-
-2. Install dependencies
-
-
-cd frontend
-npm install
-
-cd ../backend
-npm install
-
-3. Set up environment variables
-Create a .env file in /backend:
-
-
-PORT=3001
-OPEN_API_KEY=your_claude_api_key_here
-
-4. Run the project locally
-
-
- * Start backend
-cd backend
-node index.js
-
- * Start frontend
-cd frontend
-npm run dev
-
-Then visit: http://localhost:5173
-
-
-
-📁 FOLDER STRUCTURE
+📁 PROJECT STRUCTURE
 
 AgriConnect-AI/
-├── frontend/         # React UI
-│   └── src/
-│       └── components/ChatBot.jsx
-├── backend/          # Node.js API
-│   └── index.js
-├── ai-integration/   # (Optional) Claude functions
-├── pitch-deck/       # Project deck
+├── frontend/          # React app (client)
+├── backend/           # Node.js server (API)
+├── pitch-deck/
+│   └── AgriConnect_pitchDeck.pdf
+├── render.yaml
+├── vercel.json
+├── .gitignore
 └── README.md
 
 
 
 
-📝 EVALUATION CRITERIA CHECKLIST
+🎯 IMPACT
 
-CRITERIA	COMPLETED ✅
+3x increase in access to expert support
 
-CLEAR PROBLEM/SOLUTION	✅
-TECHNICAL FUNCTIONALITY	✅
-USE OF AI TECHNOLOGIES	✅ (Claude API / Mock)
-TEAM PRESENTATION	✅ (Solo Developer)
-UI/UX DESIGN QUALITY	✅
-VERSION CONTROL (GITHUB)	✅
-DEPLOYMENT (LIVE LINKS)	✅
-DOCUMENTATION (README)	✅
+Better crop pricing and reduced post-harvest loss
+
+Greater productivity for rural farmers
 
 
 
 
-🤝 ACKNOWLEDGMENT
 
-Developed by Bright Doro — built with vision, code, and resilience. Designed to help African farmers thrive using smart tools and accessible AI.
+🎥 PITCH DECK
 
-
-
-📬 CONTACT
-
-Email: brightdoroagrictechventure@gmail.com
-GitHub: github.com/Agrictechventure68
+View the full deck:
+AgriConnect_pitchDeck.pdf
+https://docs.google.com/document/d/14YaAQFtQ9l2ATp4uw8sStRX__JYuJleAoZ7S8BeBitk/edit?usp=sharing
+https://docs.google.com/document/d/14YaAQFtQ9l2ATp4uw8sStRX__JYuJleAoZ7S8BeBitk/edit?usp=drive_link
 
 
 
-🪪 LICENSE
+🔗 RELATED PROJECT
 
-MIT License
+Also view my earlier agric-tech project:
+Agri-Empower  
+ https://agrictechventure68.github.io/agri-empower-frontend/
 
 
-* Empowering Africa’s farmers, one smart decision at a time. 🌾✨
+
+🙏 THANK YOU!
+
+Let’s empower African farmers — one crop at a time 🌱
+Built with passion by Bright Doro
+GitHub Profile
+
+
 
 
 
