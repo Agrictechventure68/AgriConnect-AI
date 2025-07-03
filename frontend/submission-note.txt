@@ -1,0 +1,26 @@
+
+SUBMISSION NOTE – AgriConnect AI Hackathon Submission
+
+Project: AgriConnect AI – Empowering African Farmers with AI
+
+By: Bright Doro
+
+📁 Repository:
+https://github.com/Agrictechventure68/AgriConnect-AI
+
+🌍 Live App (Frontend):
+https://agriconnectai.vercel.app
+
+🧠 Backend API (Render):
+https://agriconnect-ai-xxxxx.onrender.com
+
+🗂 Pitch Deck:
+Included in /pitch-deck/AgriConnect_pitchDeck.pdf
+https://docs.google.com/document/d/14YaAQFtQ9l2ATp4uw8sStRX__JYuJleAoZ7S8BeBitk/edit?usp=drive_link
+
+
+Summary:
+AgriConnect AI addresses Africa’s rural farming challenges with AI-powered chat assistance, a real-time alert dashboard, and an integrated crop marketplace to support smallholder farmers. Built with React, Node.js, Supabase, Vercel, and OpenAI.
+
+Thank you for this opportunity!
+
